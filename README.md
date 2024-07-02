@@ -42,3 +42,7 @@ The project requires the following Python libraries:
 To install the required libraries, run:
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
+
+##To run the project, execute the script insurance_cost_per_person_prediction.py:
+##python insurance_cost_per_person_prediction.py
+
